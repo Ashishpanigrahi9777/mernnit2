@@ -1,0 +1,10 @@
+let a=5;
+let b=20;
+let c;
+a=a+b;
+b=a-b;
+a=a-b;
+// c=a;
+// a=b;
+// b=c;
+console.log("a="+a,"b="+b);
